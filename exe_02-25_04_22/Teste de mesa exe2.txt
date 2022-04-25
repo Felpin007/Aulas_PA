@@ -1,0 +1,4 @@
+Teste de mesa
+estoquemin   estoquemax    estoquemedio
+   1              5             3
+   10             20            15
